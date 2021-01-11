@@ -1,1 +1,1 @@
-# My-Game-2
+# Plinko with Scores
